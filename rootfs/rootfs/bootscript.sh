@@ -87,4 +87,4 @@ if modprobe hv_utils &> /dev/null; then
 fi
 
 # Launch vmware-tools
-/etc/rc.d/vmtoolsd
+# /etc/rc.d/vmtoolsd
